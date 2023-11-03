@@ -1,0 +1,19 @@
+types of repos:
+
+Public
+Private
+
+How can we grant access to a repo?
+navigate to settings -> collaborators -> add the users
+
+How can we get the remote repo in to local?
+1. git clone https://github.com/santhoshmail2u/wonderful-team.git
+
+How to start work/make some changes which you want?
+You need to checkout to the branch which you want to work.
+2. git checkout member-1
+
+How do you push the changs to remote?
+3. git add .
+4. git commit -m "commit message"
+5. git push
