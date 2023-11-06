@@ -1,0 +1,23 @@
+1.whoami - will show the root user name
+2.diff file1 file 2 - This command will show the difference in both the files
+3.rm -d folder name - this command will delete the empty folder
+4.rm -rf folder name - this will delete the folder though it is not empty. Not recommended
+5.rm -id folder name - this will ask or prompt whether to delete the folder(ensure folder is empty)
+6.cd ~/test1 - this command will help to move into test1 folder though you are in a different directory
+7.cd\ - this command will bring into first directory (eg: /home/Kumarasarma)
+8.mv - used to rename and move the file from one directory to another directory
+eg: mv sample.txt sample1.txt(this will rename the file)
+eg:mv sample.txt new directory path(this command will move the file to the respective path)
+9.head filename - this command will display top 10 lines, if we want more than 10 lines to be displayed then type as
+head -n 20 file name
+10.grep - command used to search for a word in a file. for case sensitive use -i
+Eg: grep "word" filename
+Eg: grep -i "word" filename(will search the word irrespective of upper/lower case)
+11.ls -al - will display all the files and folder even they are hidden
+12.ping domain name - this command will let us know whether we are able to contact respective domain
+Eg:ping google.com
+13.nslookup google.com - this command will help to know the IP address
+14.date - this command will provide the todays date and time
+15.ps - will display currently running processors
+16.uname - will display the system information
+17.df - will display disk space
