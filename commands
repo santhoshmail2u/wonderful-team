@@ -1,0 +1,510 @@
+   17  cd Downloads/
+   18  mv k8s-1-25-4-do-0-blr1-1670439932905-kubeconfig.yaml config
+   19  cat config | base64
+   20  cat config | base64
+   21  exit
+   22  whcih gunzip
+   23  which gzip
+   24  exit
+   25  cd Downloads/
+   26  cat config | base64
+   27  exit
+   28  which python
+   29  which pip
+   30  exit
+   31  curl -u santhoshmail2u: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 https://api.github.com/users/santhoshmail2u/repos | wc -l
+   32  curl -u santhoshmail2u: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 https://api.github.com/users/santhoshmail2u/repos | grep name
+   33  curl -u santhoshmail2u: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 https://api.github.com/users/santhoshmail2u/repos | grep name | grep -v full | grep -v labels
+   34  curl -u santhoshmail2u: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 https://api.github.com/users/santhoshmail2u/repos | grep repository
+   35  curl -u santhoshmail2u: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 https://api.github.com/users/santhoshmail2u/repos | grep ssh
+   36  curl -u santhoshmail2u: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 https://api.github.com/users/santhoshmail2u/repos | grep name | grep -v full | grep -v labels
+   37  curl -u santhoshmail2u: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 https://api.github.com/users/santhoshmail2u/repos | grep name | grep -v full | grep -v labels | cut -d" -f4
+   38  "
+   39  curl -u santhoshmail2u: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 https://api.github.com/users/santhoshmail2u/repos | grep name | grep -v full | grep -v labels | cut -d'"' -f4
+   40  cd Desktop/
+   41  python script.py | wc -l
+   42  python script.py | wc -l
+   43  python script.py | grep name
+   44  python script.py | head
+   45  python script.py | head
+   46  python script.py 
+   47  python script.py 
+   48  python script.py 
+   49  python script.py 
+   50  python script.py 
+   51  python script.py 
+   52  python script.py 
+   53  python script.py 
+   54  python script.py 
+   55  python script.py 
+   56  python script.py 
+   57  python script.py 
+   58  python script.py 
+   59  exit
+   60  export A="Hello"
+   61  python
+   62  which python
+   63  which python3
+   64  python3
+   65  python
+   66  python
+   67  python3
+   68  pwd
+   69  ls
+   70  clear
+   71  pwd
+   72  cd
+   73  cd Documents/
+   74  ls
+   75  cd Fax/
+   76  clear
+   77  pwd
+   78  cd ~
+   79  cd -
+   80  cd 
+   81  ls
+   82  ls -l
+   83  ls -la
+   84  ls -lrt
+   85  clear
+   86  exit
+   87  exit
+   88  which git
+   89  which git
+   90  where grep
+   91  clear
+   92  pwd
+   93  clear
+   94  pwd
+   95  ls
+   96  cd Desktop/
+   97  clear
+   98  mkdir git-class
+   99  cd git-class/
+  100  git clone mkdir git-class
+  101  git clone https://github.com/santhoshmail2u/wonderful-team.git
+  102  cd wonderful-team/
+  103  clear
+  104  git checkout member-1
+  105  git log
+  106  cd ../
+  107  git log
+  108  cd wonderful-team/
+  109  clear
+  110  git branch -a
+  111  clear
+  112  git add .
+  113  git commit -m "notes and tasks"
+  114  git push
+  115  exit
+  116  cd Desktop/
+  117  l
+  118  ls
+  119  clear
+  120  cd git-class/
+  121  cd wonderful-team/
+  122  git fetch -a
+  123  git checkout master
+  124  git log
+  125  git pull
+  126  git lod=g
+  127  git log
+  128  git reset -hard d9821585ebae07b0bab5ae5f6066acee9b3f2fa0
+  129  git reset --hard d9821585ebae07b0bab5ae5f6066acee9b3f2fa0
+  130  git log
+  131  git push 
+  132  git push origin +master
+  133  clear
+  134  git branch -a
+  135  git checkout member-1
+  136  clear
+  137  git satatus
+  138  git status
+  139  ls
+  140  clear
+  141  ls
+  142  touch linux-commands
+  143  ls
+  144  ls -l
+  145  clear
+  146  echo "Hello world"
+  147  A="Hello world"
+  148  echo $A
+  149  echo A
+  150  echo $A
+  151  cat $A
+  152  echo $A > linux-commands 
+  153  cat linux-commands 
+  154  ls 
+  155  clear
+  156  echo "second line" > linux-commands 
+  157  cat linux-commands 
+  158  echo "second line in second attempt" >> linux-commands 
+  159  cat linux-commands 
+  160  echo "hi" > linux-commands 
+  161  cat linux-commands 
+  162  echo "ls is to list the files" > linux-commands 
+  163  echo "echo is to print the string output or variable output" >> linux-commands 
+  164  echo "cat is to print the content of a file" >> linux-commands 
+  165  clear
+  166  cat linux-commands 
+  167  ls
+  168  touch task-2
+  169  echo "use or practice any 10 linux commands on git bash" > task-2 
+  170  echo "write one or two lines about those 10 commands" >> task-2 
+  171  echo "Commit to your branch on wonderful-team repo" >> task-2 
+  172  git status
+  173  git add .
+  174  git commit -m "task 2"
+  175  git push
+  176  exit
+  177  history
+  178  clear
+  179  whoami
+  180  whoami
+  181  clear
+  182  ls
+  183  clear
+  184  cd Desktop/
+  185  mkdir linuxcommands
+  186  cd linuxcommands/
+  187  ls
+  188  clear
+  189  touch file1 file2
+  190  ls
+  191  cat file1 file2
+  192  echo "hello" >> file1
+  193  echo "hello" >> file2
+  194  echo "hello file1" >> file1
+  195  echo "hello file2" >> file2
+  196  clear
+  197  cat file
+  198  cat file1
+  199  cd Desktop/linuxcommands/
+  200  pwd
+  201  cd ../../../../
+  202  pwd
+  203  cd -
+  204  pwd
+  205  cd ../../Desktop/demo-app/
+  206  cd -
+  207  clear
+  208  cd ~
+  209  pwd
+  210  cd -
+  211  clear
+  212  ls
+  213  cat file*
+  214  cat f*
+  215  echo "test file" >> test1
+  216  echo "test file 2" >> test2
+  217  ls
+  218  clear
+  219  ls
+  220  cat ft*
+  221  cat f* t*
+  222  cat f t*
+  223  cat *1
+  224  clear
+  225  ls *1
+  226  ls file*
+  227  touch log
+  228  ls
+  229  date
+  230  datetime
+  231  date -d
+  232  date --d
+  233  date _D
+  234  date -D
+  235  date -E
+  236  clear
+  237  date
+  238  l
+  239  touch log-11-6-2023
+  240  touch lod-11-5-2023
+  241  mv lod-11-5-2023 log-11-5-2023
+  242  ls
+  243  ls log*
+  244  clear
+  245  ls -lart
+  246  ls -t 
+  247  ls -rt 
+  248  ls -lrt
+  249  ls
+  250  ls -
+  251  ls -l
+  252  ls -lrt
+  253  clear
+  254  diff file1 file2 
+  255  rm 
+  256  rm --man
+  257  rm --help
+  258  ls --help
+  259  clear
+  260  ls -a
+  261  ls --all
+  262  ls --help
+  263  clear
+  264  mkdir test
+  265  ls
+  266  mkdir -p test/test2/test3
+  267  find test
+  268  find --help
+  269  clear
+  270  ls -lart
+  271  rm test
+  272  rm -d test
+  273  rm log-11-6-2023 
+  274  ls -lrt
+  275  cd test/test2/
+  276  ls
+  277  rm -d test3/
+  278  ls
+  279  cd ../../
+  280  mkdir -p test/test2/test3
+  281  find test
+  282  rm -r test
+  283  ls -lart
+  284  rm -i log*
+  285  ls -lrt
+  286  rm -i *1
+  287  ls 
+  288  rm test*
+  289  s
+  290  ls
+  291  cd -
+  292  mv file1 sample1
+  293  ls
+  294  mkdir -p test/test1/test2
+  295  mv sample1 test/test1/
+  296  ls
+  297  find test/
+  298  mv test/ ../
+  299  ls
+  300  ls
+  301  ls ../test/
+  302  clear
+  303  mv ../test/ .
+  304  ls
+  305  mv test/ ~/Desktop/
+  306  ls
+  307  mv ../test/ .
+  308  ls
+  309  clear
+  310  foo --help
+  311  which foo
+  312  cear
+  313  clear
+  314  exit
+  315  sleep 10
+  316  exit
+  317  exit
+  318  awk
+  319  clear
+  320  cd L
+  321  cd Desktop/linuxcommands/
+  322  ls
+  323  rm -i file2
+  324  clear
+  325  ls
+  326  clear
+  327  ls file*
+  328  ls *i*2*
+  329  touch log-06-11-2023 log-05-11-2023 log-07-11-2023
+  330  ls *11*
+  331  echo "log: working fine" >> log-05-11-2023 
+  332  echo "log: error while executing" >> log-06-11-2023 
+  333  echo "log: warning while executing" >> log-07-11-2023 
+  334  ls
+  335  clear
+  336  ls
+  337  grep "error" log*
+  338  clear
+  339  echo "message"
+  340  echo "message" >> log-05-11-2023 
+  341  cat log-05-11-2023 
+  342  cat log-07-11-2023 
+  343  cat log-05-11-2023 >> log-07-11-2023 
+  344  cat log-07-11-2023 
+  345  cp log-05-11-2023 log-07-11-2023
+  346  cat log-07-11-2023 
+  347  clear
+  348  ls -lart
+  349  ls test/
+  350  cp log-05-11-2023 test/
+  351  ls test/
+  352  ls
+  353  clear
+  354  ls
+  355  touch file1
+  356  clear
+  357  ls
+  358  rm -rf test/
+  359  clear
+  360  ls
+  361  mkdir logs files
+  362  l
+  363  ls
+  364  clear
+  365  ls
+  366  ls
+  367  mv file1 file1-05-11-2023
+  368  ls
+  369  mv file2 file2-06-11-2023
+  370  ls *06
+  371  ls *2*06
+  372  ls *6*
+  373  ls *2*06*
+  374  ls *06*
+  375  clear
+  376  ls
+  377  mv file* files/
+  378  mv file*2023 files/
+  379  ls
+  380  mv log*2023 logs/
+  381  ls
+  382  clear
+  383  cd logs/
+  384  ls
+  385  wc log-05-11-2023 
+  386  cat log-05-11-2023 
+  387  vim log-05-11-2023 
+  388  wc -l log-05-11-2023 
+  389  head log-05-11-2023 
+  390  clear
+  391  ls
+  392  wc -l log-0*
+  393  cat log-05-11-2023 >> log-07-11-2023 
+  394  wc -l log-0*
+  395  cat log-05-11-2023 >> log-07-11-2023 
+  396  cat log-07-11-2023 >> log-07-11-2023 
+  397  cat log-05-11-2023 >> log-07-11-2023 
+  398  cat log-05-11-2023 >> log-07-11-2023 
+  399  cat log-05-11-2023 >> log-07-11-2023 
+  400  cat log-05-11-2023 >> log-07-11-2023 
+  401  ls
+  402  wc -l log-07-11-2023 
+  403  clear
+  404  echo "my line 15" >> log-07-11-2023 
+  405  wc -l log-07-11-2023 
+  406  head log-07-11-2023 
+  407  head -r log-07-11-2023 
+  408  clear
+  409  tail log-07-11-2023 
+  410  tail -5 log-07-11-2023 
+  411  tail -1 log-07-11-2023 
+  412  head -15 log-07-11-2023 
+  413  clear
+  414  head -n 2 log-07-11-2023 
+  415  echo "success" >> log-07-11-2023 
+  416  tail -1 log-07-11-2023 
+  417  echo "error" >> log-07-11-2023 
+  418  tail -1 log-07-11-2023 
+  419  clear
+  420  ping google.com
+  421  ping calc.com
+  422  ping santhosh-calc.com
+  423  clear
+  424  ping mycompany-poc.com
+  425  nslook mycompany-poc.com
+  426  nslookup mycompany-poc.com
+  427  nslookup google.com
+  428  clear
+  429  date
+  430  date --help
+  431  date %a
+  432  date now
+  433  now
+  434  date -d=now
+  435  date -d='now'
+  436  date %A
+  437  date --date='@2147483647' %A
+  438  date --date='@2147483647' %a
+  439  date --date='@2147483647' 
+  440  `date %a`
+  441  clear
+  442  ps
+  443  ps -ef
+  444  ps -ef
+  445  ps -ef
+  446  ps -ef
+  447  clear
+  448  ps -ef
+  449  ps
+  450  clear
+  451  ps -ef
+  452  ps -ef
+  453  ps -ef
+  454  ps -ef
+  455  ps -ef
+  456  clear
+  457  ps -ef
+  458  kill 1416
+  459  ps -ef
+  460  kill 1437
+  461  uname
+  462  clear
+  463  du
+  464  df
+  465  du ../
+  466  du -h ../
+  467  df -h
+  468  clear
+  469  du -h 
+  470  du -h ../../
+  471  du -h ../../
+  472  clear
+  473  du -h ../../ | grep linuxcommands
+  474  du -h ../../
+  475  du -h ../../ | grep example
+  476  clear
+  477  du -h ../../ | grep example*
+  478  du -h ../../ | grep example*app
+  479  du -h ../../ | grep example | grep app
+  480  clear
+  481  cd ../
+  482  vim commnds
+  483  vim filename
+  484  vim filename
+  485  vim filename
+  486  grep 1 commnds 
+  487  grep "1." commnds 
+  488  grep "1\." commnds 
+  489  grep whoami commnds 
+  490  grep diff commnds 
+  491  clear
+  492  cd ~
+  493  cd -
+  494  ps -ef
+  495  exit
+  496  echo "hello"
+  497  sleep 10
+  498  sleep 60
+  499  sleep 60
+  500  exit
+  501  cd Desktop/linuxcommands/
+  502  ls
+  503  ls-lrt
+  504  ls -lrt
+  505  cd logs/
+  506  grep error log-0*
+  507  grep error log-0* | wc -l
+  508  clear
+  509  history
+  510  ls
+  511  cd ../
+  512  ls
+  513  mv filename how_to_use_vim
+  514  ls
+  515  cat commnds 
+  516  history > commnds 
+  523  git status
+  524  ls
+  525  git add .
+  526  alias ga='git add .'
+  527  ga
+  528  alias gs='git status'
+  529  gs
+  530  gs
+  531  history
+  532  history | tail >> commands 
