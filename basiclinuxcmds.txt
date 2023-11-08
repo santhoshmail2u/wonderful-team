@@ -21,3 +21,24 @@ Eg:ping google.com
 15.ps - will display currently running processors
 16.uname - will display the system information
 17.df - will display disk space
+18.Permissions - chmod used for file/directory modification, chgrp used for changing the group, chown used for changing the owner
+eg:drw-r--r-- - in this line d stands for directory, next 3 chars represents for owner, next 3 chars represents for group and last 3 represents others
+Permission type - Read(r) or ->4, Write(w) or -> 2 and Execute(x) or ->1
+eg: chmod u+rwx,g+r,g-w,o-wx filename - this command will provide the owner with read,write and executer permission, group with read and remove write permission, 
+others will remove writer and execute
+we can also provide permissions using octal format. 4 stands for read, 2 stands for write and 1 stands for execute
+eg:A file require rw permission for Owner, group with write and others only read
+synt: chmod 624 filename(rw - 4+2, w -2, o-4)
+eg:chmod 750 filename - this command will provide rwx permission to owner,read and write permission for group,no permissions for others
+eg:chmod 750 testfldr - for this folder - this command will provide rwx permission to owner, read and write permission for group, no permissions for others
+But sub there will not be any change in the subfolders. Inorder to change for subfolders used reccursive method
+eg:chmod -R 750 foldername
+To change the owner we have to mention the ownername and group name where the owner is present
+eg:chown testown:testadmin folder - here testown is a owner available in testadmin group
+To change the group name we have to mention group name and folder name
+eg:chgrp labit foldername
+19:Grep command is also used with different options like
+grep -c language filename - this command will display the count(how many lines language word is available)
+grep -cr language filename - this command will display the count in reccursive way
+grep -n language filename - this command will display the line numbers where the language word is available
+

@@ -1,1 +1,20 @@
 hi I am just started learning Devops
+let us test grep command
+I am checking with word language
+different patterns to check language by
+providing
+different 
+options
+in sample2 file
+Language
+Language is english
+Language is Telugu
+Language is Tamil
+language is Sanskrit
+language is Hindi
+we have many more languages
+now let us also check grep command
+we can use case sensitve option
+recurssive option
+skip the word option and 
+many more
